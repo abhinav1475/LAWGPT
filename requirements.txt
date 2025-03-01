@@ -1,0 +1,9 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu
+PyMuPDF
+numpy
+scikit-learn
+streamlit
+pyngrok
